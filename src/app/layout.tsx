@@ -32,27 +32,39 @@ const signature = Alex_Brush({
 
 export const metadata: Metadata = {
     title: {
-        default: 'Rakibul Hasan | AI & Software Engineer',
-        template: '%s | Portfolio',
+        default: 'Rakibul Hasan Rakib | AI & Web Development Expert',
+        template: '%s | Rakibul Hasan Rakib',
     },
-    description: 'A passionate developer building digital experiences that inspire. Explore my projects, skills, and professional journey.',
-    keywords: ['developer', 'portfolio', 'web development', 'full stack', 'react', 'nextjs'],
-    authors: [{ name: 'Your Name' }],
-    creator: 'Your Name',
-    metadataBase: new URL('https://your-domain.com'),
+    description: 'Rakibul Hasan Rakib - AI and Web Development Expert specializing in Machine Learning, Full Stack Development, and innovative technical solutions. Explore my portfolio of cutting-edge projects.',
+    keywords: ['Rakibul Hasan Rakib', 'AI Engineer', 'Web Developer', 'Machine Learning', 'Full Stack Developer', 'React', 'Next.js', 'Python', 'TensorFlow', 'Portfolio', 'Bangladesh', 'Web Design', 'AI Development'],
+    authors: [{ name: 'Rakibul Hasan Rakib' }],
+    creator: 'Rakibul Hasan Rakib',
+    metadataBase: new URL('https://rakibulhasan.live'),
+    verification: {
+        google: 'google6dff2d69354829b0',
+    },
     openGraph: {
         type: 'website',
         locale: 'en_US',
-        url: 'https://your-domain.com',
-        title: 'Rakibul Hasan | AI & Software Engineer',
-        description: 'A passionate developer building digital experiences that inspire.',
-        siteName: 'Portfolio',
+        url: 'https://rakibulhasan.live',
+        title: 'Rakibul Hasan Rakib | AI & Web Development Expert',
+        description: 'AI and Web Development Expert specializing in Machine Learning, Full Stack Development, and innovative technical solutions.',
+        siteName: 'Rakibul Hasan Rakib Portfolio',
+        images: [
+            {
+                url: '/og-image.png',
+                width: 1200,
+                height: 630,
+                alt: 'Rakibul Hasan Rakib - AI & Web Development Expert',
+            },
+        ],
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Rakibul Hasan | AI & Software Engineer',
-        description: 'A passionate developer building digital experiences that inspire.',
-        creator: '@yourusername',
+        title: 'Rakibul Hasan Rakib | AI & Web Development Expert',
+        description: 'AI and Web Development Expert specializing in Machine Learning, Full Stack Development, and innovative technical solutions.',
+        creator: '@rakibulhasanrakib',
+        images: ['/og-image.png'],
     },
     robots: {
         index: true,
@@ -67,8 +79,11 @@ export const metadata: Metadata = {
     },
     icons: {
         icon: [
-            { url: '/Arfazrll_light.svg', media: '(prefers-color-scheme: light)' },
-            { url: '/Arfazrll_dark.svg', media: '(prefers-color-scheme: dark)' },
+            { url: '/favicon.ico' },
+            { url: '/icon.png', sizes: '32x32', type: 'image/png' },
+        ],
+        apple: [
+            { url: '/apple-icon.png', sizes: '180x180', type: 'image/png' },
         ],
     },
 };
