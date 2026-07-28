@@ -13,7 +13,7 @@ export const portfolioData: PortfolioData = {
         website: 'https://rakibulhasanrakib.com',
         languages: [
             { name: 'Bengali', level: 'Native' },
-            { name: 'English', level: 'Professional Working' },
+            { name: 'English', level: 'Professional' },
         ],
         socialLinks: [
             {
