@@ -8,7 +8,7 @@ export function proxy(request: NextRequest) {
     const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
     if (isMobile) {
-        return NextResponse.redirect('https://arfazrllworkspace.vercel.app/');
+        return NextResponse.redirect('https://rakibulhasan.live/');
     }
 
     return NextResponse.next();
@@ -28,3 +28,4 @@ export const config = {
         '/((?!api|_next/static|_next/image|favicon.ico|.*\\..*).*)',
     ],
 };
+

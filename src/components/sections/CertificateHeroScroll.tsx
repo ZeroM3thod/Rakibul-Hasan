@@ -333,3 +333,4 @@ const CertificateHeroScroll: FC<CertificateHeroScrollProps> = ({ onDownloadClick
 };
 
 export default CertificateHeroScroll;
+

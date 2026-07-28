@@ -77,3 +77,4 @@ export function ZoomParallax({ images, children }: ZoomParallaxProps) {
 		</div>
 	);
 }
+

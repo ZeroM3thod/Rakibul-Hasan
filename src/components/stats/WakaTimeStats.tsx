@@ -3,3 +3,4 @@
 export default function WakaTimeStats() {
     return null;
 }
+

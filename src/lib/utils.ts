@@ -12,3 +12,4 @@ export function formatDate(input: string | number): string {
         year: "numeric",
     })
 }
+

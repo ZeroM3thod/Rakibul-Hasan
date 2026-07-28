@@ -768,3 +768,4 @@ export const DomeGallery: React.FC<DomeGalleryProps> = ({
         </div>
     );
 };
+

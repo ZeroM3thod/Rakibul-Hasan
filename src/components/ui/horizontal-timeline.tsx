@@ -236,3 +236,4 @@ export const HorizontalTimeline = ({ data }: { data: TimelineEntry[] }) => {
     </div>
   );
 };
+

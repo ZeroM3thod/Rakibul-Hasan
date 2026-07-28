@@ -126,3 +126,4 @@ export const Spotlight = ({
         </motion.div>
     );
 };
+

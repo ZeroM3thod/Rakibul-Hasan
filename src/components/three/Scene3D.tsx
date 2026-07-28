@@ -69,3 +69,4 @@ export function Scene3D({ className = '', paused = false }: Scene3DProps) {
 }
 
 export default Scene3D;
+

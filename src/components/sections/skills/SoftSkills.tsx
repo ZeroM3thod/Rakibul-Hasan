@@ -268,3 +268,4 @@ const BentoMoreCard = ({ index }: { index: number }) => {
         </motion.div>
     );
 };
+

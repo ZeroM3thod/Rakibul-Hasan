@@ -49,3 +49,4 @@ export const SocialCorner = ({ className, delay = 0.5 }: SocialCornerProps) => {
         </motion.div>
     );
 };
+

@@ -37,3 +37,4 @@ export async function getAllGalleryImages(): Promise<GalleryImage[]> {
         return [];
     }
 }
+

@@ -49,3 +49,4 @@ export const useResponsive = (styles: any) => {
 
   return responsiveStyles;
 };
+

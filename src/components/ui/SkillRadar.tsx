@@ -130,3 +130,4 @@ export const SkillRadar = ({ skills, size = 400, className }: SkillRadarProps) =
         </div>
     );
 };
+

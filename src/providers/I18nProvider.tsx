@@ -17,3 +17,4 @@ export function I18nProvider({ children, locale, messages, timeZone = 'Asia/Jaka
         </NextIntlClientProvider>
     );
 }
+

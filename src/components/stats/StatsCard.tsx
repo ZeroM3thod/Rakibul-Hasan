@@ -100,3 +100,4 @@ export function StatsCard({ children, className = "", delay = 0 }: StatsCardProp
         </motion.div>
     );
 }
+

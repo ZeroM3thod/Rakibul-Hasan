@@ -103,3 +103,4 @@ export const TechConstellation = ({ items, className }: TechConstellationProps) 
         </div>
     );
 };
+

@@ -175,3 +175,4 @@ export interface PortfolioData {
     blogs: BlogPost[];
     gallery: GalleryItem[];
 }
+

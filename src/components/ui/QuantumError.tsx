@@ -173,3 +173,4 @@ export function QuantumError({ type = '404', reset }: QuantumErrorProps) {
         </div >
     );
 }
+

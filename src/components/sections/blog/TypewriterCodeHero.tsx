@@ -230,3 +230,4 @@ export const TypewriterCodeHero = () => {
         </motion.div>
     );
 };
+

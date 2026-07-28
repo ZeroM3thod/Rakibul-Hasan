@@ -225,3 +225,4 @@ const ParallaxImg = ({ className, alt, src, start, end, scrollY }: { className?:
         />
     );
 };
+

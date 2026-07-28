@@ -31,3 +31,4 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
 
     return <ProjectPageContent project={updatedProject} />;
 }
+

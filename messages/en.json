@@ -497,7 +497,7 @@
     },
     "chatbot": {
         "title": "AI Assistant",
-        "subtitle": "Ask me about Azril",
+        "subtitle": "Ask me about Rakibul Hasan",
         "placeholder": "Type a message...",
         "greeting": "Hi! I'm an AI assistant for **{name}**. 👋\n\nI can answer questions about:\n- Skills & technical expertise\n- Projects and work\n- Experience\n- Education\n- And more!\n\nAnything you'd like to ask?",
         "suggestions": [

@@ -126,3 +126,4 @@ export const SplineScene: FC<SplineSceneProps> = ({ scene, className }) => {
         </div>
     );
 };
+

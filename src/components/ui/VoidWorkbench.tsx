@@ -115,3 +115,4 @@ const VoidArtifact = ({ tool, index }: { tool: ToolItem; index: number }) => {
         </motion.div>
     );
 };
+

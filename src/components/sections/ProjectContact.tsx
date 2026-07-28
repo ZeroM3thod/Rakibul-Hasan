@@ -206,3 +206,4 @@ const Typewrite = ({ examples, isLowPowerMode }: { examples: string[]; isLowPowe
         </div>
     );
 };
+

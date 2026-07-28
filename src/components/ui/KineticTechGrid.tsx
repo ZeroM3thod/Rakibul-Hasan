@@ -106,3 +106,4 @@ const TechCard = ({ tech, idx, isLowPowerMode }: { tech: TechItem, idx: number, 
         </motion.div>
     );
 };
+

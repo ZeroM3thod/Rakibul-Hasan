@@ -20,3 +20,4 @@ export function DeferredMount({ children, fallback = null }: DeferredMountProps)
 
     return <>{children}</>;
 }
+

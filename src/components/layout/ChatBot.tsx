@@ -737,3 +737,4 @@ export function ChatBot({ headless = false }: { headless?: boolean }) {
         </>
     );
 }
+

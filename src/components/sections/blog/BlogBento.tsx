@@ -170,3 +170,4 @@ const Block = ({ className, children, whileHover, id }: BlockProps) => {
         </motion.div>
     );
 };
+

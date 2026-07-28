@@ -406,3 +406,4 @@ export function TechStack({ techStack, tools, isLowPowerMode }: TechStackProps &
         </div>
     );
 }
+

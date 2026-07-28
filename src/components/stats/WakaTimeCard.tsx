@@ -169,3 +169,4 @@ export default function GenericWakaTimeLoader({ children, render }: { children?:
     if (loading) return null;
     return <>{render(data)}</>;
 }
+

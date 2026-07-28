@@ -53,3 +53,4 @@ export const HoverScrambleText = ({ text, className }: { text: string; className
         </span>
     );
 };
+

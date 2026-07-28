@@ -136,3 +136,4 @@ const Card = ({ card }: { card: typeof allCards[0] }) => {
 };
 
 export default HorizontalScrollCarousel;
+

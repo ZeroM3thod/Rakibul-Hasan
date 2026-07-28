@@ -606,3 +606,4 @@ html, body, * {
 .bg-book-gradient { background-image: var(--ds-book-gradient); }
 .book-rotate { transition: transform 0.5s ease-out; transform: rotateY(0deg); transform-style: preserve-3d; }
 .book-rotate:hover { transform: rotateY(-25deg); }
+

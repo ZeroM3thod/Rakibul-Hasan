@@ -146,3 +146,4 @@ export const SkillsClosing = () => {
         </section>
     );
 };
+

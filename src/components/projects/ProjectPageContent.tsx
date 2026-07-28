@@ -611,3 +611,4 @@ export function ProjectPageContent({ project, isLowPowerMode }: { project: Proje
         </div>
     );
 }
+

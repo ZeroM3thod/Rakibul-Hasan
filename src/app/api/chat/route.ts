@@ -243,3 +243,4 @@ export async function GET() {
         providers: { groq: hasGroq, gemini: hasGemini },
     });
 }
+

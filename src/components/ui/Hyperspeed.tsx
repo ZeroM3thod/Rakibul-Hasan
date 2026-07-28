@@ -173,3 +173,4 @@ const Hyperspeed: React.FC<HyperspeedProps> = ({ effectOptions, className, pause
 };
 
 export default Hyperspeed;
+

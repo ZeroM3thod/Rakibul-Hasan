@@ -924,3 +924,4 @@ export default function Bucket({ trailImages }: { trailImages?: string[] }) {
     </div>
   );
 };
+

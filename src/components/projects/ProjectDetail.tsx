@@ -674,3 +674,4 @@ export function ProjectDetail({ project, onClose, isLowPowerMode }: { project: P
         </motion.div >
     );
 }
+

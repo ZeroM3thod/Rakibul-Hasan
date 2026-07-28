@@ -284,3 +284,4 @@ function Component({ url }: { url: string }) {
 }
 
 export { Component as PdfViewer };
+

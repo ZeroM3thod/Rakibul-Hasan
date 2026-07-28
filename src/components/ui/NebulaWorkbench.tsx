@@ -92,3 +92,4 @@ export const NebulaWorkbench = ({ tools, className }: NebulaWorkbenchProps) => {
         </div>
     );
 };
+

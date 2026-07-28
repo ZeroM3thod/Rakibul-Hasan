@@ -16,3 +16,4 @@ export function SmoothScrollProvider({ children }: { children: React.ReactNode }
         </ReactLenis>
     );
 }
+

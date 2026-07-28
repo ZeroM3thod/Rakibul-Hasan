@@ -33,3 +33,4 @@ function getRandomGradient() {
   ];
   return gradients[Math.floor(Math.random() * gradients.length)];
 }
+

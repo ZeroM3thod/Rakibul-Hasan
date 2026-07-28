@@ -32,7 +32,7 @@ const signature = Alex_Brush({
 
 export const metadata: Metadata = {
     title: {
-        default: 'Arfazrll | AI & Software Engineer',
+        default: 'Rakibul Hasan | AI & Software Engineer',
         template: '%s | Portfolio',
     },
     description: 'A passionate developer building digital experiences that inspire. Explore my projects, skills, and professional journey.',
@@ -44,13 +44,13 @@ export const metadata: Metadata = {
         type: 'website',
         locale: 'en_US',
         url: 'https://your-domain.com',
-        title: 'Arfazrll | AI & Software Engineer',
+        title: 'Rakibul Hasan | AI & Software Engineer',
         description: 'A passionate developer building digital experiences that inspire.',
         siteName: 'Portfolio',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Arfazrll | AI & Software Engineer',
+        title: 'Rakibul Hasan | AI & Software Engineer',
         description: 'A passionate developer building digital experiences that inspire.',
         creator: '@yourusername',
     },
@@ -117,3 +117,4 @@ export default async function RootLayout({
         </html>
     );
 }
+

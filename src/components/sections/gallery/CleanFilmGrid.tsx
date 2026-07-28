@@ -583,3 +583,4 @@ export default function CleanFilmGrid({ isLowPowerMode }: { isLowPowerMode?: boo
         </section>
     );
 }
+

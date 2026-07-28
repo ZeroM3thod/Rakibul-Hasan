@@ -26,3 +26,4 @@ declare module 'aos' {
     const aos: Aos;
     export default aos;
 }
+

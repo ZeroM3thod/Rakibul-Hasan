@@ -281,3 +281,4 @@ const SkillCard = ({ skill, delay }: { skill: any, delay: number }) => {
 };
 
 export default HardSkills;
+

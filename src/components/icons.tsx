@@ -82,3 +82,4 @@ export const Icons = {
     server: Server,
     unknown: (props: React.SVGProps<SVGSVGElement>) => <Command {...props} />
 };
+

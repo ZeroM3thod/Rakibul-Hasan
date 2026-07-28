@@ -184,3 +184,4 @@ export function ArchedTechIconsInteractive({ icons }: ArchedIconsProps) {
     </div>
   );
 }
+

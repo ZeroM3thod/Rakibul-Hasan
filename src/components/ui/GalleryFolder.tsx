@@ -210,3 +210,4 @@ export const GalleryButton = ({ galleryImages }: { galleryImages: string[] }) =>
         </div>
     );
 };
+

@@ -974,3 +974,4 @@ function ExperienceTimeline({ isLowPowerMode }: { isLowPowerMode: boolean }) {
         </div>
     );
 }
+

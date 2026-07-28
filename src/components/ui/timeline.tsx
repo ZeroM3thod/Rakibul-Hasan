@@ -119,3 +119,4 @@ export const Timeline = ({ data, isLowPowerMode }: { data: TimelineEntry[]; isLo
     </div>
   );
 };
+

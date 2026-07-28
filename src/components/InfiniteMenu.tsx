@@ -1159,3 +1159,4 @@ const InfiniteMenu: FC<InfiniteMenuProps> = ({ items = [], scale = 1.0 }) => {
 };
 
 export default InfiniteMenu;
+

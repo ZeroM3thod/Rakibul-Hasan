@@ -236,3 +236,4 @@ export default function StatsSection({ scrollYProgress, showOnly }: { scrollYPro
         </section>
     );
 }
+

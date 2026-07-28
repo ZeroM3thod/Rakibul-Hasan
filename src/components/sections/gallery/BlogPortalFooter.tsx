@@ -145,3 +145,4 @@ export default function BlogPortalFooter({ isLowPowerMode }: { isLowPowerMode?: 
         </section>
     );
 }
+

@@ -168,3 +168,4 @@ export const GalleryStack = ({ images }: GalleryStackProps) => {
 export const GalleryButton = ({ galleryImages }: { galleryImages: string[] }) => {
     return <GalleryStack images={galleryImages} />;
 };
+

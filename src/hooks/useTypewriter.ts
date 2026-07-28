@@ -35,3 +35,4 @@ export const useTypewriter = (
 
     return { displayText, isComplete };
 };
+

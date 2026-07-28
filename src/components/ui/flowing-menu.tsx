@@ -173,3 +173,4 @@ function MenuItem({ link, text, image, category, date, speed }: MenuItemProps) {
 }
 
 export default FlowingMenu;
+

@@ -96,3 +96,4 @@ export const useTextScramble = (
 
     return { scrambledText, isComplete };
 };
+

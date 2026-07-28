@@ -56,3 +56,4 @@ export function ProjectPlaceholder({ className, title = "No Preview Available" }
         </div>
     );
 }
+

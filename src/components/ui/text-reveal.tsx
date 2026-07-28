@@ -69,3 +69,4 @@ const Word: FC<WordProps> = ({ children, progress, range }) => {
     </span>
   )
 }
+

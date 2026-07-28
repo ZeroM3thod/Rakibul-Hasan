@@ -25,3 +25,4 @@ export function Counter({ value, decimal = 0, duration = 3, delay = 0 }: { value
 
     return <span ref={ref}>{displayValue}</span>;
 }
+

@@ -162,3 +162,4 @@ const OrbitalRing = ({ ring, progress, index }: { ring: any; progress: any; inde
         </motion.div>
     );
 };
+

@@ -56,3 +56,4 @@ export async function getProjectImages(slug: string, title?: string): Promise<st
 
     return validImages;
 }
+

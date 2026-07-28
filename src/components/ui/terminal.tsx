@@ -122,3 +122,4 @@ const MotionComponent = ({ as: Component = "div", children, ...props }: any) => 
     const MotionEl = (motion as any).create ? (motion as any).create(Component) : motion(Component);
     return <MotionEl {...props}>{children}</MotionEl>;
 };
+

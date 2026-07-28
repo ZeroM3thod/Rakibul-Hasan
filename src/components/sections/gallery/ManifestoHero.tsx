@@ -120,3 +120,4 @@ export default function ManifestoHero({ isLowPowerMode }: { isLowPowerMode?: boo
         </section>
     );
 }
+

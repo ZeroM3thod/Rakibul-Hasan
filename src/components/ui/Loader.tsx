@@ -158,3 +158,4 @@ function Face({ icon: Icon, label, color, transform }: { icon: any, label: strin
 }
 
 export default Loader;
+

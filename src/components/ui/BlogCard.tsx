@@ -82,3 +82,4 @@ export function BlogCard({ post, index, isHovered, isLowPowerMode }: BlogCardPro
     );
 }
 
+

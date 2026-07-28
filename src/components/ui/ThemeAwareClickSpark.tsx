@@ -27,3 +27,4 @@ export const ThemeAwareClickSpark = ({ children }: { children: React.ReactNode }
         </ClickSpark>
     );
 };
+
